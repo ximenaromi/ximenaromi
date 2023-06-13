@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### My name is Ximena Rodriguez, I love data and how you can get so many interesting insights and stories from it. Check my projects to discover something cool.
+
 <!--
 **ximenaromi/ximenaromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
